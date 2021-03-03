@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a java developer.😝
-I like to develop many interesting things.💻
+- I'm a java developer.😝
+- I like to develop many interesting things.💻
