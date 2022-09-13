@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm a noob developer.😝
 - I like to develop many interesting things.💻
 - Seeking software that can be useful and covenient fot developer to use.🛎
